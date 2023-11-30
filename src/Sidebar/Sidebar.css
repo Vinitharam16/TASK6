@@ -1,0 +1,17 @@
+.sidebar {
+        font-size:larger;
+        .profile-container {
+                margin: 20px 0px 0px 0px;
+                .profile-img {
+                        width: 60px;
+                        height: 60px;
+                }
+                /* .nav-links{  
+                                            
+                } */
+                .active{
+                        background-color:rgba(32, 53, 98, 1);
+                        color: white;
+                      }
+        }
+}

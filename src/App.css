@@ -1,8 +1,15 @@
 .App {
-  text-align: center;
+  background-color: rgba(245, 245, 245, 1);
+  font-family: Montserrat;
+  text-align: left;
+  color: rgba(32, 53, 98, 1);
+
 }
 
-.App-logo {
+.content-pages{
+  background-color: rgba(227, 232, 248, 1);
+}
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +42,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
